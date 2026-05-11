@@ -1,5 +1,7 @@
 # mcp-wechat-clawbot
 
+[中文版](README_zh.md) | [English](README.md)
+
 MCP server for WeChat with multi-account support, SQLite storage, QR code login, and thread pool concurrency.
 
 ## Overview
